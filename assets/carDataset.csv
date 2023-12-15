@@ -1,0 +1,15 @@
+Name,Category,Provider,Battery_Capacity,Range,Top Speed,0_60mph,Horsepower,Seats,Price,Image
+Tesla Model 3,Sedan,Tesla,75,267,162,3.1,450,5,46.990,tesla_model_3.jpg
+Ford Mustang Mach-E,SUV,Ford,88.5,305,155,3.5,480,5,46.895,ford_suv.jpg
+Chevrolet Bolt EV,Hatchback,Chevrolet,66.9,259,95,6.5,200,5,31.000,chevroley_bolt_ev.jpg
+Nissan Leaf Plus,Hatchback,Nissan,62,223,107,7.5,214,5,38.285,nissan_leaf.jpg
+Hyundai Kona Electric,SUV,Hyundai,64,258,104,7.5,201,5,34.150,hyundai_kona_ev.jpg
+Kia Niro EV,SUV,Kia,64.5,253,101,7.8,201,5,40.990,kia_niro_ev.jpg
+Volkswagen ID.4,SUV,Volkswagen,82,280,100,7.5,201,5,40.995,volkswagen_id4.jpg
+Toyota RAV4 Prime,SUV,Toyota,18.1,42,203,5.7,302,5,40.250,toyota_rav4.jpg
+BMW i3,City Car,BMW,33,153,93,7.2,184,4,41.450,bmw_i3.jpg
+Audi e-tron,SUV,Audi,95.0,248,127,5.7,402,5,60.800,audi_etron.jpg
+Porsche Taycan,Sedan,Porsche,93.4,227,162,2.4,670,4,82.700,porscha_taycan.jpg
+Mercedes-Benz EQS,Sedan,Mercedes-Benz,107.8,414,130,3.5,516,5,102.350,mercedes_eqs.jpg
+Lucid Air,Sedan,Lucid,118,520,168,2.5,516,5,87.400,lucid_air.jpg
+Rivian R1T,Truck,Rivian,135,314,125,4.5,835,5,73.500,rivian_r1t.jpg
